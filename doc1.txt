@@ -1,1 +1,3 @@
 Welcome to Bus Reservation
+one bus booked
+new branch created
