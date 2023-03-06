@@ -1,3 +1,5 @@
+import math
+
 def test_sqrt_negative_num():
     num = -25
     assert math.sqrt(num) == ValueError
